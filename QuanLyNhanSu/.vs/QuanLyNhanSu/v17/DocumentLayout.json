@@ -3,56 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\trocapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\trocapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\tinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\tinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\hosonhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\hosonhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\phongbandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\phongbandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\hesoluongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\hesoluongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\chucvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\chucvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\chamcongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\chamcongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\bangluongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\bangluongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\dto\\thongtinphanmemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:dto\\thongtinphanmemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|c:\\users\\dell g15\\documents\\github\\qlns-winform-csharp\\quanlynhansu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AC37D-86BF-43F1-B2B5-372D2F85F947}|QuanLyNhanSu.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,174 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TroCapDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\TroCapDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\TroCapDTO.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\TroCapDTO.cs",
-              "RelativeToolTip": "DTO\\TroCapDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:28:12.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TinhLuong.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\TinhLuong.cs",
-              "RelativeDocumentMoniker": "DTO\\TinhLuong.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\TinhLuong.cs",
-              "RelativeToolTip": "DTO\\TinhLuong.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:25:20.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TaiKhoanDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\TaiKhoanDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\TaiKhoanDTO.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\TaiKhoanDTO.cs",
-              "RelativeToolTip": "DTO\\TaiKhoanDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:23:54.248Z",
+              "WhenOpened": "2024-11-07T19:47:37.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PhanQuyen.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\PhanQuyen.cs",
-              "RelativeDocumentMoniker": "DTO\\PhanQuyen.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\PhanQuyen.cs",
-              "RelativeToolTip": "DTO\\PhanQuyen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA/wEsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:22:37.251Z",
+              "WhenOpened": "2024-11-07T19:34:08.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:00:05.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NhanVienDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\NhanVienDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\NhanVienDTO.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\NhanVienDTO.cs",
-              "RelativeToolTip": "DTO\\NhanVienDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:18:40.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HoSoNhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\HoSoNhanVien.cs",
-              "RelativeDocumentMoniker": "DTO\\HoSoNhanVien.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\HoSoNhanVien.cs",
-              "RelativeToolTip": "DTO\\HoSoNhanVien.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:15:34.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PhongBanDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\PhongBanDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\PhongBanDTO.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\PhongBanDTO.cs",
-              "RelativeToolTip": "DTO\\PhongBanDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:21:34.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HeSoLuongDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\HeSoLuongDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\HeSoLuongDTO.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\HeSoLuongDTO.cs",
-              "RelativeToolTip": "DTO\\HeSoLuongDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:14:10.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ChucVuDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\ChucVuDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ChucVuDTO.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\ChucVuDTO.cs",
-              "RelativeToolTip": "DTO\\ChucVuDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:12:51.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ChamCongDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\ChamCongDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ChamCongDTO.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\ChamCongDTO.cs",
-              "RelativeToolTip": "DTO\\ChamCongDTO.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:10:08.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ThongTinPhanMemDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\ThongTinPhanMemDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ThongTinPhanMemDTO.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\ThongTinPhanMemDTO.cs",
-              "RelativeToolTip": "DTO\\ThongTinPhanMemDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:08:17.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BangLuongDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\BangLuongDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\BangLuongDTO.cs",
-              "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\DTO\\BangLuongDTO.cs",
-              "RelativeToolTip": "DTO\\BangLuongDTO.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:05:00.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Dell G15\\Documents\\GitHub\\QLNS-Winform-CSharp\\QuanLyNhanSu\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:22:58.871Z",
+              "WhenOpened": "2024-11-07T18:54:43.27Z",
               "EditorCaption": " [Design]"
             }
           ]
