@@ -118,16 +118,85 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="management_icon_230468" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\management_icon_230468.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="contactlist_theuser_802" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\contactlist_theuser_802.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user_accounts_15362" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\user_accounts_15362.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="subsidy_people_group_icon_144597" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\subsidy_people_group_icon_144597.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="communication_assistance_help_support_service_information_icon_230472" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\communication_assistance_help_support_service_information_icon_230472.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login_icon_176905" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\login_icon_176905.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user_theinformation_788" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\user_theinformation_788.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="businessman_finance_business_management_icon_263057" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\businessman_finance_business_management_icon_263057.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Help_icon-icons1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Help_icon-icons.com_73700.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login_gov_icon_146024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\login_gov_icon_146024.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="finance_chart_business_id_management_icon_263075" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\finance_chart_business_id_management_icon_263075.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Help_icon-icons.com_73700" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Help_icon-icons.com_73700.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="management_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\management_icon.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="icon-lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\icon-lock.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="home_house" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\home_house.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="circle_customer_help_info_information_service_support_icon_123208" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\circle_customer_help_info_information_service_support_icon_123208.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="salary_marketing_income_financial_earn_money_is_work_icon_230480" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\salary_marketing_income_financial_earn_money_is_work_icon_230480.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="databaseprocess_basededatos_12922" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\databaseprocess_basededatos_12922.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cash_payment_earning_salary_income_wages_icon_210486" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\cash_payment_earning_salary_income_wages_icon_210486.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="essential_interaction_touch_finger_hand_salary_icon_226227" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\essential_interaction_touch_finger_hand_salary_icon_226227.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="management_icon_230468" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\management_icon_230468.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="xmag_search_find_export_locate_5984" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\xmag_search_find_export_locate_5984.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="password_userpassword_9564" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\password_userpassword_9564.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home_house" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\home_house.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="student_work_office_desk_work_space_computer_working_support_icon_191191" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\student_work_office_desk_work_space_computer_working_support_icon_191191.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="workspace_man_cat_office_working_laptop_icon_179775" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\workspace_man_cat_office_working_laptop_icon_179775.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="storage-drive-disk-floppy-save-backup_108614" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\storage-drive-disk-floppy-save-backup_108614.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\login.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="xmag_searc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\xmag_searc.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
